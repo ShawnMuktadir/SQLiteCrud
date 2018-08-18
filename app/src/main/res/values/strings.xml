@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SqliteCrud</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fr_label">SQLite</string>
+    <string name="home_fr_add_btn_name">Add Contact</string>
+    <string name="home_fr_update_btn_name">Update Contact</string>
+    <string name="home_fr_delete_btn_name">Delete Contact</string>
+    <string name="home_fr_view_btn_name">View Contact</string>
+
+</resources>
